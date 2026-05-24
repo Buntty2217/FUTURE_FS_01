@@ -57,8 +57,10 @@ function App() {
         </p>
 
         <a
-          href="/GVSravan_FullStack_Resume(1).pdf"
+          href="/resume.pdf"
           download
+          target="_blank"
+          rel="noreferrer"
           className="mt-8 inline-block px-6 py-3 bg-blue-600 text-white rounded-full shadow-lg hover:scale-105 transition"
         >
           Download Resume
